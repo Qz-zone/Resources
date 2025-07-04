@@ -2,7 +2,7 @@
 
 ![Hello](https://raw.githubusercontent.com/Moli-X/Resources/main/Icon/Image/Hello3.gif)
 
-> TG Channel：https://t.me/QuantX
+
 
 ## 脚本收集: [欢迎投稿](https://t.me/Skill_XX )
 
